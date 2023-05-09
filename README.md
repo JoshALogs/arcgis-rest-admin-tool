@@ -14,7 +14,9 @@ A browser extension to quickly navigate to ArcGIS REST API administration operat
 
 1. This extension has been successfully tested on ArcGIS Online (AGOL) 11.0.0 and ArcGIS Enterprise Portal 10.8.
 
-2. Newer versions of AGOL and Portal may have a different interface when opening the REST URL. To ensure this extension works, be sure to open the item's REST URL in a new tab. The URL must look something like this to work: `https://services.myserver.com/OrgID/ArcGIS/rest/services/example/FeatureServer/0`.
+2. This extension has been successfully tested in Chrome 113.0.5672.93 and Firefox 112.0.2.
+
+3. Newer versions of AGOL and Portal may have a different interface when opening the REST URL. To ensure this extension works, be sure to open the item's REST URL in a new tab. The URL must look something like this to work: `https://services.myserver.com/OrgID/ArcGIS/rest/services/example/FeatureServer/0`.
 
 ## How to use
 
