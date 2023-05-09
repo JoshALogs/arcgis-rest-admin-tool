@@ -25,6 +25,26 @@ A browser extension to quickly navigate to ArcGIS REST API administration operat
 5. Click the "Execute Operation" button.
 6. The operation's webpage will open in a new tab.
 
+![how_to_use](https://user-images.githubusercontent.com/31683291/236974747-ce4f110b-99d5-4fdb-80cc-bdf4385bf373.gif)
+
+## Manual Installation
+
+### Chrome
+
+1. Download the Chrome extension files from the [Chrome](./Chrome) directory in this repository.
+2. Open the Chrome browser and navigate to `chrome://extensions`.
+3. Enable "Developer mode" by toggling the switch in the top right corner of the page.
+4. Click "Load unpacked" and select the folder containing the downloaded Chrome extension files.
+5. The extension should now be installed and visible in your Chrome extensions list.
+
+### Firefox
+
+1. Download the Firefox extension files from the [Firefox](./Firefox) directory in this repository.
+2. Open the Firefox browser and navigate to `about:debugging`.
+3. Click "This Firefox" in the left sidebar.
+4. Click "Load Temporary Add-on..." and select the `manifest.json` file from the downloaded Firefox extension files.
+5. The extension should now be installed and visible in your Firefox extensions list.
+
 ## Limitations
 
 - The extension currently supports ArcGIS Online and Enterprise Portal hosted services.
