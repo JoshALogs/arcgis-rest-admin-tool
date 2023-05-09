@@ -37,3 +37,10 @@ A browser extension to quickly navigate to ArcGIS REST API administration operat
 ## Contributing
 
 Please feel free to submit issues or contribute code to improve the extension.
+
+# Contact Information
+
+If you have any questions, issues, or suggestions, feel free to reach out through the following channels:
+
+- Email: [JoshALogs@gmail.com](mailto:JoshALogs@gmail.com)
+- GitHub: [arcgis-rest-admin-tool](https://github.com/JoshALogs/arcgis-rest-admin-tool)
