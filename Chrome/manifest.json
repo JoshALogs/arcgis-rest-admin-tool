@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "ArcGIS REST API Admin Helper",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A Chrome extension to quickly navigate to ArcGIS REST API administration operations for hosted services.",
   "browser_action": {
     "default_icon": "icon.png",
