@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "ArcGIS REST API Admin Helper",
+  "version": "1.0",
+  "description": "A Firefox extension to quickly navigate to ArcGIS REST API administration operations for hosted services.",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "arcgis-rest-api-admin-helper@joshalogs.com",
+      "strict_min_version": "42.0"
+    }
+  }
+}
