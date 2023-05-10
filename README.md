@@ -53,12 +53,13 @@ A browser extension to quickly navigate to ArcGIS REST API administration operat
 ## Attributions
 
 - Icon: https://www.flaticon.com/free-icons/magnifying-glass
+- OpenAI's ChatGPT
 
 ## Contributing
 
 Please feel free to submit issues or contribute code to improve the extension.
 
-# Contact Information
+## Contact Information
 
 If you have any questions, issues, or suggestions, feel free to reach out through the following channels:
 
