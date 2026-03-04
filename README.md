@@ -1,9 +1,9 @@
-# ArcGIS REST API Admin Helper v1.2.0
+# ArcGIS REST API Admin Helper
 
 A browser extension to quickly navigate to ArcGIS REST API administration operations for hosted services.
 
 ## Features
-
+https://github.com/JoshALogs/arcgis-rest-admin-tool?tab=readme-ov-file
 - Navigate to the following ArcGIS REST API operations directly from the extension:
   - Refresh
   - Add To Definition
