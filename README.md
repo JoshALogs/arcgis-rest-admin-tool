@@ -53,7 +53,6 @@ https://github.com/JoshALogs/arcgis-rest-admin-tool?tab=readme-ov-file
 ## Attributions
 
 - Icon: https://www.flaticon.com/free-icons/magnifying-glass
-- OpenAI's ChatGPT
 
 ## Contributing
 
@@ -63,5 +62,4 @@ Please feel free to submit issues or contribute code to improve the extension.
 
 If you have any questions, issues, or suggestions, feel free to reach out through the following channels:
 
-- Email: [JoshALogs@gmail.com](mailto:JoshALogs@gmail.com)
 - GitHub: [arcgis-rest-admin-tool](https://github.com/JoshALogs/arcgis-rest-admin-tool)
